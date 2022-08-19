@@ -1,0 +1,29 @@
+{
+  "name": "palyndrome-openfree-codecamp",
+  "version": "1.0.0",
+  "description": "first palyndrome with nine digits and the pi number 3.1415...",
+  "main": "index.js",
+  "scripts": {
+    "start": "node start",
+    "build": "node build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luismendes070/palyndrome-openfree-codecamp.git"
+  },
+  "keywords": [
+    "pi",
+    "palyndrome"
+  ],
+  "author": "Luis Mendes <machadoluismendes@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/luismendes070/palyndrome-openfree-codecamp/issues"
+  },
+  "homepage": "https://github.com/luismendes070/palyndrome-openfree-codecamp#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^4.7.4"
+  }
+}
